@@ -1,3 +1,6 @@
 #!/bin/bash
 ls -1t | head -10
+<<<<<<< HEAD
 
+=======
+>>>>>>> 852964afe9ca18c8d116ef50e71d26c742c8a6ba
