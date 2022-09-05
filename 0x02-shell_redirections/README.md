@@ -1,4 +1,4 @@
-<h3 style="color:blue;"> 0-hello_world - "Prints 'Hellow, World'" </h3>
+<h3> 0-hello_world - "Prints 'Hellow, World'" </h3>
 <h3>1-confused_smiley - "Displays a confused smiley "(Ôo)' "</h3>
 <h3>2-hellofile - "Display's the content of the /etc/passwd file"</h3>
 <h3>3-twofiles - "Display's the content of /etc/passwd and /etc/hosts"</h3>
